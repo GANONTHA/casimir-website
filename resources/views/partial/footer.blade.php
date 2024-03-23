@@ -40,13 +40,13 @@
 							<ul>
 								<li><span class="icon fa fa-map marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
 								<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-								<li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">info@yourdomain.com</span></a></li>
+								<li><a href="kalibefanezounecasimir4@gmail.com"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">kalibefanezounecasimir4@gmail.com</span></a></li>
 							</ul>
 						</div>
 						<ul class="ftco-footer-social list-unstyled mt-2">
-							<li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>
-							<li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>
-							<li class="ftco-animate"><a href="#"><span class="fa fa-instagram"></span></a></li>
+							<li class="ftco-animate"><a href="https://twitter.com/KalibeCasimir"><span class="fa fa-twitter"></span></a></li>
+							<li class="ftco-animate"><a href="https://www.facebook.com/profile.php?id=100090433486463"><span class="fa fa-facebook"></span></a></li>
+							<li class="ftco-animate"><a href="https://www.linkedin.com/in/casimir-kalibe-fanezoun%C3%A9-687690191/X "><span class="fa fa-linkedin"></span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -55,7 +55,7 @@
 				<div class="col-md-12 text-center">
 
 					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-						Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+						Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout droit réservé | Conçu <i class="fa fa-heart" aria-hidden="true"></i> par <a href="https://colorlib.com" target="_blank">Bruno Ganontha Payang</a>
 						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 					</div>
 				</div>
