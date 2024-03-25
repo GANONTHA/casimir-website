@@ -670,7 +670,7 @@
 
 @extends('partial.contacts')
 
-@extends('partial.blogs')
+@extends('partial.blogs.blogs')
 	
 
 		

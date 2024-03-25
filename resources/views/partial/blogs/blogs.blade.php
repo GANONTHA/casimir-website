@@ -3,8 +3,8 @@
 			<div class="row justify-content-center mb-5 pb-5">
 				<div class="col-md-7 heading-section text-center ftco-animate">
 					<span class="subheading">Blog</span>
-					<h2 class="mb-4">Our Blog</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<h2 class="mb-4">Dernières actualités</h2>
+					<p>Ayez un aperçu de mes dernières actualités à travers les blogs posts.</p>
 				</div>
 			</div>
 			<div class="row d-flex">

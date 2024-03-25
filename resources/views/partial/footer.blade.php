@@ -55,7 +55,8 @@
 				<div class="col-md-12 text-center">
 
 					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-						Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout droit réservé | Conçu <i class="fa fa-heart" aria-hidden="true"></i> par <a href="https://colorlib.com" target="_blank">Bruno Ganontha Payang</a>
+						{{-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout droit réservé | Conçu <i class="fa fa-heart" aria-hidden="true"></i> par <a href="https://colorlib.com" target="_blank">Colorlib</a> --}}
+						Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout droit réservé | Conçu <i class="fa fa-heart" aria-hidden="true"></i> par <a href="https://www.linkedin.com/in/bruno-ganontha-payang/" target="_blank">Bruno Ganontha Payang</a>
 						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 					</div>
 				</div>
