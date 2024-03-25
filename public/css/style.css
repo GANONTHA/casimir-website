@@ -73,9 +73,9 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
+    color: #37380a;
     text-align: left;
-    background-color: #FAF9F6;
+    background-color: #faf9f6;
 }
 
 [tabindex="-1"]:focus {
@@ -10741,6 +10741,7 @@ h5,
     font-weight: 600;
     opacity: 1 !important;
     text-transform: uppercase;
+    color: #fff;
 }
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link span {
     position: relative;
@@ -11143,17 +11144,17 @@ h5,
 .owl-carousel.home-slider .slider-item .slider-text .subheading {
     color: #000000;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 15px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    color: #5e96eb;
+    color: #dbb023;
 }
 .owl-carousel.home-slider .slider-item .slider-text .text {
     position: relative;
     z-index: 1;
 }
 .owl-carousel.home-slider .slider-item .slider-text h1 {
-    font-size: 55px;
+    font-size: 45px;
     color: #000000;
     line-height: 1.2;
     font-weight: 800;

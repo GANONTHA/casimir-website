@@ -5,20 +5,20 @@
 	
 	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light site-navbar-target" id="ftco-navbar">
 		<div class="container">
-			<a class="navbar-brand" href="index.html">Clyde<span>.</span></a>
+			<a class="navbar-brand" href="index.html">Casimir KF<span>.</span></a>
 			<button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="oi oi-menu"></span> Menu
 			</button>
 
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav nav ml-auto">
-					<li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
-					<li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
-					<li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills</span></a></li>
-					<li class="nav-item"><a href="#services-section" class="nav-link"><span>Services</span></a></li>
-					<li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
+					<li class="nav-item"><a href="#home-section" class="nav-link"><span>Accueil</span></a></li>
+					<li class="nav-item"><a href="#about-section" class="nav-link"><span>Qui suis-je?</span></a></li>
+					<li class="nav-item"><a href="#skills-section" class="nav-link"><span>Compétences</span></a></li>
+					<li class="nav-item"><a href="#services-section" class="nav-link"><span>Education</span></a></li>
+					<li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projets</span></a></li>
 					<li class="nav-item"><a href="#blog-section" class="nav-link"><span>Blog</span></a></li>
-					<li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
+					<li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contacts</span></a></li>
 				</ul>
 			</div>
 		</div>
@@ -29,15 +29,16 @@
 				<div class="overlay"></div>
 				<div class="container-fluid px-md-0">
 					<div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-						<div class="one-third order-md-last img" style="background-image:url(images/bg_1.png);">
+						<div class="one-third order-md-last img" style="background-image:url(images/bg_1_old-rem.png);">
 							<div class="overlay"></div>
 							<div class="overlay-1"></div>
 						</div>
 						<div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 							<div class="text">
-								<span class="subheading">Hello! This is Clyde</span>
-								<h1 class="mb-4 mt-3">Creative <span>UI/UX</span> Designer &amp; Developer</h1>
-								<p><a href="#" class="btn btn-primary">Hire me</a> <a href="#" class="btn btn-primary btn-outline-primary">Download CV</a></p>
+								<span class="subheading">Salut, c'est Casimir</span>
+								
+								<h1 class="mb-4 mt-3">Doctorant en <span>Physique et Science</span> de l’ingénieur</h1>
+								<p><a href="#" class="btn btn-primary">Me Contacter</a> <a href="#" class="btn btn-primary btn-outline-primary">Voir CV</a></p>
 							</div>
 						</div>
 					</div>
@@ -54,9 +55,9 @@
 						</div>
 						<div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 							<div class="text">
-								<span class="subheading">We Design &amp; Build Brands</span>
-								<h1 class="mb-4 mt-3">Hi, I am <span>Clyde</span> This is my favorite work.</h1>
-								<p><a href="#" class="btn btn-primary">Hire me</a> <a href="#" class="btn btn-primary btn-outline-primary">Download CV</a></p>
+								<span class="subheading">Energies Renouvelables</span>
+								<h1 class="mb-4 mt-3">Je suis <span>Casimir KF</span> <br> Bienvenu sur mon site  personnel.</h1>
+								<p><a href="#" class="btn btn-primary">Me Contacter</a> <a href="#" class="btn btn-primary btn-outline-primary">Voir CV</a></p>
 							</div>
 						</div>
 					</div>
