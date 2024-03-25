@@ -131,17 +131,19 @@
 					<div class="py-md-5">
 						<div class="row justify-content-start pb-3">
 							<div class="col-md-12 heading-section ftco-animate">
-								<span class="subheading">My Intro</span>
-								<h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">About Me</h2>
-								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+								<span class="subheading">Mon Intro</span>
+								<h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">A Propos de moi</h2>
+								<p>Je suis Doctorant en Physique et Science de l’ingénieur : option <span>Energies Renouvelables</span> <br>
+								<i><< Qui ose, Grandit, qui grandit, Ose ! >> </i>
+								</p>
 
 								<ul class="about-info mt-4 px-md-0 px-2">
-									<li class="d-flex"><span>Name:</span> <span>Clyde Nowitzki</span></li>
-									<li class="d-flex"><span>Date of birth:</span> <span>January 01, 1990</span></li>
-									<li class="d-flex"><span>Address:</span> <span>San Francisco CA 97987 USA</span></li>
+									<li class="d-flex"><span>Nom:</span> <span>Casimir Fanezoune Kalibe</span></li>
+									{{-- <li class="d-flex"><span>Date of birth:</span> <span>January 01, 1990</span></li> --}}
+									<li class="d-flex"><span>Adresse:</span> <span>San Francisco CA 97987 USA</span></li>
 									<li class="d-flex"><span>Zip code:</span> <span>1000</span></li>
-									<li class="d-flex"><span>Email:</span> <span>cydenowitzki@gmail.com</span></li>
-									<li class="d-flex"><span>Phone: </span> <span>+1-2234-5678-9-0</span></li>
+									<li class="d-flex"><span>Email:</span> <span>kalibefanezounecasimir4@gmail.com</span></li>
+									<li class="d-flex"><span>Téléphone: </span> <span>+212 684-966602</span></li>
 								</ul>
 							</div>
 							<div class="col-md-12">
@@ -150,19 +152,19 @@
 										<div class="icon d-flex align-items-center justify-content-center">
 											<span class="flaticon-listening"></span>
 										</div>
-										<div class="text">Music</div>
+										<div class="text">Musique</div>
 									</div>
 									<div class="interest-wrap d-flex align-items-center">
 										<div class="icon d-flex align-items-center justify-content-center">
 											<span class="flaticon-suitcases"></span>
 										</div>
-										<div class="text">Travel</div>
+										<div class="text">Voyage</div>
 									</div>
 									<div class="interest-wrap d-flex align-items-center">
 										<div class="icon d-flex align-items-center justify-content-center">
 											<span class="flaticon-video-player"></span>
 										</div>
-										<div class="text">Movie</div>
+										<div class="text">Cinéma</div>
 									</div>
 									<div class="interest-wrap d-flex align-items-center">
 										<div class="icon d-flex align-items-center justify-content-center">
@@ -183,8 +185,8 @@
 		<div class="container">
 			<div class="row justify-content-center pb-5">
 				<div class="col-md-12 heading-section text-center ftco-animate">
-					<span class="subheading">Skills</span>
-					<h2 class="mb-4">My Skills</h2>
+					<span class="subheading">Expertise</span>
+					<h2 class="mb-4">Mes Compétences</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
 				</div>
 			</div>
