@@ -10,4 +10,9 @@ class BlogController extends Controller
     {
         return view('partial.blogs.index');
     }
+    // Show a single blog post
+    public function show()
+    {
+        return view('partial.blogs.show');
+    }
 }
