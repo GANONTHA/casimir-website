@@ -4,32 +4,49 @@
 				<div class="col-md-7 heading-section text-center ftco-animate">
 					<span class="subheading">Me contacter</span>
 					<h2 class="mb-4">Voulez vous me contacter?</h2>
+					{{-- show submit message from session variable --}}
+					@if (session('message'))
+						<div class="alert alert-success">
+							{{ session('message') }}
+						</div>
+					@endif
+					{{-- show validation error --}}
+					@if ($errors->any())
+						<div class="alert alert-danger">
+							<ul>
+								@foreach ($errors->all() as $error)
+									<li>{{ $error }}</li>
+								@endforeach
+							</ul>
+						</div>
+					@endif
 					<p>Utilisez ce formulaire pour entrer en contact avec moi pour tous vos besoins.</p>
 				</div>
 			</div>
 
 			<div class="row block-9">
 				<div class="col-md-8">
-					<form action="#" class="bg-light p-4 p-md-5 contact-form">
+					<form action="/contact" class="bg-light p-4 p-md-5 contact-form" method="POST">
+						@csrf
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Votre Nom">
+									<input type="text" name="name" class="form-control" placeholder="Votre Nom">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Votre Email">
+									<input type="text" name="email" class="form-control" placeholder="Votre Email">
 								</div>
 							</div>
 							<div class="col-md-12">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Objet">
+									<input type="text" name="objet" class="form-control" placeholder="Objet">
 								</div>
 							</div>
 							<div class="col-md-12">
 								<div class="form-group">
-									<textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+									<textarea name="message" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
 								</div>
 							</div>
 							<div class="col-md-12">
