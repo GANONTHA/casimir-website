@@ -2,9 +2,9 @@
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-3">
 				<div class="col-md-7 heading-section text-center ftco-animate">
-					<span class="subheading">Contact us</span>
-					<h2 class="mb-4">Have a Project?</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<span class="subheading">Me contacter</span>
+					<h2 class="mb-4">Voulez vous me contacter?</h2>
+					<p>Utilisez ce formulaire pour entrer en contact avec moi pour tous vos besoins.</p>
 				</div>
 			</div>
 
@@ -14,17 +14,17 @@
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Your Name">
+									<input type="text" class="form-control" placeholder="Votre Nom">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Your Email">
+									<input type="text" class="form-control" placeholder="Votre Email">
 								</div>
 							</div>
 							<div class="col-md-12">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Subject">
+									<input type="text" class="form-control" placeholder="Objet">
 								</div>
 							</div>
 							<div class="col-md-12">
@@ -34,7 +34,7 @@
 							</div>
 							<div class="col-md-12">
 								<div class="form-group">
-									<input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+									<input type="submit" value="Envoyer le Message" class="btn btn-primary py-3 px-5">
 								</div>
 							</div>
 						</div>
@@ -49,7 +49,7 @@
 								<span class="fa fa-map-marker"></span>
 							</div>
 							<div class="text">
-								<p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+								<p><span>Adresse:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
 							</div>
 						</div>
 						<div class="dbox w-100 d-flex">
@@ -57,7 +57,7 @@
 								<span class="fa fa-phone"></span>
 							</div>
 							<div class="text">
-								<p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+								<p><span>Téléphone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
 							</div>
 						</div>
 						<div class="dbox w-100 d-flex">
@@ -73,7 +73,7 @@
 								<span class="fa fa-globe"></span>
 							</div>
 							<div class="text">
-								<p><span>Website</span> <a href="#">yoursite.com</a></p>
+								<p><span>Site web: </span> <a href="#">yoursite.com</a></p>
 							</div>
 						</div>
 					</div>

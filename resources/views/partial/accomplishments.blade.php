@@ -2,9 +2,9 @@
 		<div class="container-fluid px-md-4">
 			<div class="row justify-content-center pb-5">
 				<div class="col-md-12 heading-section text-center ftco-animate">
-					<span class="subheading">Accomplishments</span>
-					<h2 class="mb-4">Our Projects</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<span class="subheading">Mes accomplissements</span>
+					<h2 class="mb-4">Projets réalisés</h2>
+					<p>La réalisation d'un projet est non seulement un succès, mais une action qui appelle une autre, ainsi de suite nous faisons notre marque.</p>
 				</div>
 			</div>
 			<div class="row">

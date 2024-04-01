@@ -4,20 +4,20 @@
 			<div class="row mb-5">
 				<div class="col-md">
 					<div class="ftco-footer-widget mb-4">
-						<h2 class="ftco-heading-2">Lets talk about</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p><a href="#" class="btn btn-primary">Learn more</a></p>
+						<h2 class="ftco-heading-2">Introduction</h2>
+						<p>Qui oses, gagne, qui gagne, ose. Une action apres une autre, c'est ça le secret de ceux qui reussissent .</p>
+						<p><a href="#" class="btn btn-primary">Voir plus</a></p>
 					</div>
 				</div>
 				<div class="col-md">
 					<div class="ftco-footer-widget mb-4 ml-md-4">
-						<h2 class="ftco-heading-2">Links</h2>
+						<h2 class="ftco-heading-2">Liens importants</h2>
 						<ul class="list-unstyled">
-							<li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Home</a></li>
-							<li><a href="#"><span class="fa fa-chevron-right mr-2"></span>About</a></li>
-							<li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Services</a></li>
-							<li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Projects</a></li>
-							<li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Contact</a></li>
+							<li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Accueil</a></li>
+							<li><a href="#about-section"><span class="fa fa-chevron-right mr-2"></span>Qui suis-je?</a></li>
+							<li><a href="#contact-section"><span class="fa fa-chevron-right mr-2"></span>Contacts</a></li>
+							<li><a href="#projects-section"><span class="fa fa-chevron-right mr-2"></span>Projets</a></li>
+							<li><a href="#blog-section"><span class="fa fa-chevron-right mr-2"></span>Blogs</a></li>
 						</ul>
 					</div>
 				</div>
@@ -35,7 +35,7 @@
 				</div>
 				<div class="col-md">
 					<div class="ftco-footer-widget mb-4">
-						<h2 class="ftco-heading-2">Have a Questions?</h2>
+						<h2 class="ftco-heading-2">Avez-vous une Question?</h2>
 						<div class="block-23 mb-3">
 							<ul>
 								<li><span class="icon fa fa-map marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
@@ -56,7 +56,7 @@
 
 					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 						{{-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout droit réservé | Conçu <i class="fa fa-heart" aria-hidden="true"></i> par <a href="https://colorlib.com" target="_blank">Colorlib</a> --}}
-						Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout droit réservé | Conçu <i class="fa fa-heart" aria-hidden="true"></i> par <a href="https://www.linkedin.com/in/bruno-ganontha-payang/" target="_blank">Bruno Ganontha Payang</a>
+						<script>document.write(new Date().getFullYear()); </script>  &copy; Copyright. Tout droit réservé | Conçu <i class="fa fa-heart" aria-hidden="true"></i> par <a href="https://www.linkedin.com/in/bruno-ganontha-payang/" target="_blank">Bruno Ganontha Payang</a>
 						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 					</div>
 				</div>

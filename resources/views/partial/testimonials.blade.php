@@ -2,9 +2,9 @@
 		<div class="container">
 			<div class="row justify-content-center pb-5">
 				<div class="col-md-12 heading-section heading-section-white text-center ftco-animate">
-					<span class="subheading">Testimonies</span>
-					<h2 class="mb-4">What client says about?</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<span class="subheading">Témoignages</span>
+					<h2 class="mb-4">De réconnaissances et satisfactions</h2>
+					<p>Les témoignages sont comme une source de motivation qui nous laisse croire que nos actions sont appréciées par quelqu'un.</p>
 				</div>
 			</div>
 			<div class="row ftco-animate">
