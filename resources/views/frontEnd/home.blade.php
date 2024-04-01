@@ -1,5 +1,5 @@
 
-@extends('partial.header')
+@include('partial.header')
 
 	
 	
@@ -673,7 +673,7 @@
 
 @extends('partial.contacts')
 
-@extends('partial.blogs.blogs')
+@include('partial.blogs.blogs')
 	
 
 		
