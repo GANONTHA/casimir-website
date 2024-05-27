@@ -24,6 +24,10 @@ class ContactController extends Controller
         ]);
 
         //store the form data in the db
+        /* ` = new Contact();` is creating a new instance of the `Contact` model. This line of
+        code initializes a new object of the `Contact` class, which represents a contact record in
+        the database. This object will be used to store the form data entered by the user before
+        saving it to the database. */
         $contact = new Contact();
         $contact->name = $request->name;
         $contact->objet = $request->objet;
